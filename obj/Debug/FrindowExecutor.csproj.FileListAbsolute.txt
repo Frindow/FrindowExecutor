@@ -1,0 +1,23 @@
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.Properties.Resources.resources
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.csproj.GenerateResource.cache
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.csproj.CoreCompileInputs.cache
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\FastColoredTextBox.dll
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\WeAreDevs_API.dll
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.csproj.CopyComplete
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.ScriptHub.resources
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.csproj.AssemblyReference.cache
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\Frindow Executor.pdb
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\Frindow Executor.pdb
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.Properties.Options.resources
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.Form1.resources
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.SplashScreen.resources
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\Frindow Executor.exe.config
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\Frindow Executor.exe.manifest
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\Frindow Executor.application
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\bin\Debug\Frindow Executor.exe
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\FrindowExecutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\Frindow Executor.exe.manifest
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\Frindow Executor.application
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\Frindow Executor.exe
+C:\Users\maddo\source\repos\FrindowExecutor\FrindowExecutor\obj\Debug\Frindow Executor.TrustInfo.xml
